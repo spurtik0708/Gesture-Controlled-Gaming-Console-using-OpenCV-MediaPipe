@@ -1,8 +1,3 @@
-Here's a detailed and polished `README.md` file for your **Gesture Controlled Gaming Console** project on GitHub:
-
----
-
-```markdown
 # Gesture Controlled Gaming Console 🎮✋
 
 This project demonstrates a real-time gesture recognition system that allows users to control a game using body movements, eliminating the need for physical input devices. Built using **OpenCV**, **MediaPipe**, and **PyAutoGUI**, the system offers an intuitive, accessible, and immersive gaming experience using just a standard webcam.
