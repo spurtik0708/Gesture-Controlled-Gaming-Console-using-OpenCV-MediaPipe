@@ -70,12 +70,11 @@ Here’s a snapshot of the system in action:
 ### Installation
 
 1. Terminal:
-
-   ```bash 
-  pip install virtualenv
-  python.exe -m pip install --upgrade pip
-  vitualenv game_env
-   
+    ```bash
+      pip install virtualenv
+     python.exe -m pip install --upgrade pip
+     vitualenv game_en
+   ```   
 
 2. Install dependencies:
 
