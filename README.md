@@ -71,9 +71,9 @@ Here’s a snapshot of the system in action:
 
 1. Terminal:
     ```bash
-      pip install virtualenv
-     python.exe -m pip install --upgrade pip
-     vitualenv game_en
+    pip install virtualenv
+    python.exe -m pip install --upgrade pip
+    vitualenv game_en
    ```   
 
 2. Install dependencies:
