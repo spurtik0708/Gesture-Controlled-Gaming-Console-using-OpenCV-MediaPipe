@@ -50,9 +50,13 @@ Here’s a snapshot of the system in action:
 - Smooth and responsive under varied lighting conditions.
 
 ![image](https://github.com/user-attachments/assets/ac123969-e079-4929-896e-1ad44582b633)
+
 ![image](https://github.com/user-attachments/assets/a00af3de-b524-4432-bfb4-01f59c4a95a0)
+
 ![image](https://github.com/user-attachments/assets/8a270b2e-3735-48c9-a980-d3882f4dbf91)
+
 ![image](https://github.com/user-attachments/assets/d786e007-c2c9-4704-8482-798689220ec6)
+
 ![image](https://github.com/user-attachments/assets/9694fdef-1db7-4a7b-8276-3b1b8496c67c)
 
 
@@ -66,12 +70,12 @@ Here’s a snapshot of the system in action:
 ### Installation
 
 1. Terminal:
+
    ```bash 
   pip install virtualenv
   python.exe -m pip install --upgrade pip
   vitualenv game_env
-
-````
+   
 
 2. Install dependencies:
 
